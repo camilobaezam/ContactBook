@@ -65,7 +65,8 @@ Ejemplo de salida
  1. Avedaño, Mario - +56911111111
  2. Avedaño, Policarpo - +56922222222
  3. Bodoque, Juan - +56933333333
- Total de contactos: 3
+
+Total de contactos: 3
 
 Al salir
 
