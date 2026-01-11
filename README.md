@@ -73,13 +73,13 @@ Al elegir opción 4, guarda automáticamente en contactos.json
 
 ## Ideas para mejorar el proyecto (futuras versiones)
 
-Editar contactos existentes
-Eliminar contactos
-Buscar por teléfono
-Exportar a CSV
-Interfaz gráfica con tkinter
-Validación de formato de teléfono
-Agrupar por inicial de apellido
+- Editar contactos existentes
+- Eliminar contactos
+- Buscar por teléfono
+- Exportar a CSV
+- Interfaz gráfica con tkinter
+- Validación de formato de teléfono
+- Agrupar por inicial de apellido
 
 ## Autor
 
