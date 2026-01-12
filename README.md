@@ -30,7 +30,7 @@ Incluye opciones para:
 
 ## Uso
 
-Ejecuta el programa: python main.py
+Ejecuta el programa: python ContactBook.py
 
 Menú principal:
 Opciones:
